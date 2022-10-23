@@ -1,3 +1,6 @@
+# Maciej Sikora
+# GitHub: maciek04786
+
 size = 7
 
 m = (2 * size) - 2
